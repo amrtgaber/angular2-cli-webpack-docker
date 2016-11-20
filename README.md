@@ -41,7 +41,6 @@ If this is all you have on your system you can still build the image using the D
 ### Install angular-cli
 
 ```bash
-sudo npm uninstall -g angular-cli # if you already have another version
 sudo npm install -g angular-cli
 ```
 
@@ -76,7 +75,7 @@ docker-compose up --build
 
 ## Angular Cli
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
