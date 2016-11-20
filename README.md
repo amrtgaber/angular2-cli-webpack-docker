@@ -2,7 +2,7 @@
 
 Hello! :wave:
 
-This is a dockerized project generated with [angular-cli](https://github.com/angular/angular-cli) version **1.0.0-beta.20-4** which is now using the fully released version of angular 2! Along with great built in angular 2 and webpack features (e.g. hot module reloading), this starter also has [scss](https://github.com/sass/sass), [bootstrap 4](https://github.com/twbs/bootstrap/tree/v4.0.0-alpha.5), [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) and [animate.css](https://github.com/daneden/animate.css) pre-installed and allows you to continue to use the cli to generate components. :ok_hand:
+This is a dockerized project generated with [angular-cli](https://github.com/angular/angular-cli) version **1.0.0-beta.20-4**. Along with great built in angular 2 and webpack features (e.g. hot module reloading), this starter also has [scss](https://github.com/sass/sass), [bootstrap 4](https://github.com/twbs/bootstrap/tree/v4.0.0-alpha.5), [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) and [animate.css](https://github.com/daneden/animate.css) pre-installed and allows you to continue to use the cli to generate components. :ok_hand:
 
 ## Please Note
 
