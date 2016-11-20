@@ -1,0 +1,12 @@
+version: '2'
+services:
+  angular2-cli-webpack-docker:
+    container_name: angular2-cli-webpack-docker
+    build: .
+    command: "npm start -- --host=0.0.0.0"
+    ports:
+      - 4200:4200
+      - 49152:49152
+    volumes:
+      - .:/home/app/angular2-cli-webpack-docker
+      - /home/app/angular2-cli-webpack-docker/node_modules
