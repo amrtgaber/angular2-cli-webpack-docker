@@ -21,6 +21,7 @@ Feel free to ask me any questions you have and any help or feedback is always ap
   * [Build and serve](#build-and-serve)
 * [See it in action](#see-it-in-action)
 * [Installing dependencies](#installing-dependencies)
+* [Dockerize your own angular-cli project](#dockerize-your-own-angular-cli-project)
 * [Angular Cli](#angular-cli)
 
 ## Getting Started
@@ -72,6 +73,10 @@ npm install --save <dependency>
 docker-compose down
 docker-compose up --build
 ```
+
+## Dockerize your own angular-cli project
+
+You can grab the files needed to dockerize your own angular-cli project along with instructions from this reposotiry: [angular2-cli-docker-files](https://github.com/amrtgaber/angular2-cli-docker-files).
 
 ## Angular Cli
 
