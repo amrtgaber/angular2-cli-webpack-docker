@@ -60,7 +60,7 @@ Nice and easy! :tada: :sparkles: :sparkles:
 
 Navigate to `localhost:4200` in your browser.
 
-**NOTE**: For windows you must replace 'localhost' with the machine ip. You can get the machine ip with the following command.
+**NOTE**: For docker toolbox you must replace 'localhost' with the machine ip. You can get the machine ip with the following command.
 
 ```bash
 docker-machine ip angular2-cli-webpack-docker
@@ -76,7 +76,7 @@ docker-compose up --build
 
 ## Dockerize your own angular-cli project
 
-You can grab the files needed to dockerize your own angular-cli project along with instructions from this reposotiry: [angular2-cli-docker-files](https://github.com/amrtgaber/angular2-cli-docker-files).
+You can grab the files needed to dockerize your own angular-cli project along with instructions from this repository: [angular2-cli-docker-files](https://github.com/amrtgaber/angular2-cli-docker-files).
 
 ## Angular Cli
 
